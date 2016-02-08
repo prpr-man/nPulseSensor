@@ -1,5 +1,5 @@
 {
-  "name": "nPulse",
+  "name": "npulsesensor",
   "version": "0.0.1",
   "description": "BPM calculation module for the Node.js",
   "main": "index.js",
