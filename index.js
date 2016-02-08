@@ -112,5 +112,5 @@ var nPulseSensor = (function() {
   
 })();
 
-module.exports = PulseSensor;
+module.exports = nPulseSensor;
 
