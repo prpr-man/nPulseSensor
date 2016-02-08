@@ -1,7 +1,9 @@
 # nPulseSensor
+[![NPM](https://nodei.co/npm/nPulseSensor.js.png)](https://nodei.co/npm/nPulseSensor.js/)
+
 BPM calculation module for the Node.js  
   
-This is library is for [PulseSensor](pulsesensor.com). 
+This is library is for [PulseSensor](http://pulsesensor.com/). 
 You can specify how to read an analog value from the sensor, so you can use Intel Edison and Raspberry Pi, such as the self-made device.
 
 ## Installation
