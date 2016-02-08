@@ -1,0 +1,25 @@
+{
+  "name": "nPulseSensor",
+  "version": "0.0.1",
+  "description": "BPM calculation module for the Node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prpr-man/nPulseSensor.git"
+  },
+  "keywords": [
+    "pulse",
+    "pulsesensor",
+    "edison",
+    "heartrate"
+  ],
+  "author": "prpr_man",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prpr-man/nPulseSensor/issues"
+  },
+  "homepage": "https://github.com/prpr-man/nPulseSensor#readme"
+}
